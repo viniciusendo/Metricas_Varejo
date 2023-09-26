@@ -30,7 +30,7 @@ Para utilizarmos as informações de maneira ideal, foi necessário fazer manipu
 Foi feita a análise univariada para observar a distribuição de frequência das variáveis categóricas e a distribuição de variáveis numéricas (mín, máx, desvio padrão).
 
 ## Perguntas de negócio
-Para criação das métricas solicitadas, foram utilizadas técnicas de agrupamento de dados. A partir dos dados, observou-se que:
+Para criação das métricas solicitadas, foram utilizadas técnicas de agrupamento de dados e gráficos para visualização. A partir das informações levantadas, observou-se que:
 - Os departamentos mais vendidos eram todos do segmento de eletrônicos: celulares, eletrodomésticos, eletroportáteis, TVs e informática
 - Os departamentos com a maior média de preço por venda eram em sua maioria do segmento de eletrônicos: TVs (vídeo e acessórios), informática, linha industrial, cine e foto e celulares
 - O mês com mais vendas no período avaliado (jan a abr) foi março, apesar da diferença não ser muito significativa entre os meses
