@@ -38,6 +38,7 @@ Para criação das métricas solicitadas, foram utilizadas técnicas de agrupame
 - De maneira similar, a média de idade por bandeira também é praticamente a mesma.
 
 ## Tecnologias utilizadas
+- Google Colab
 - Python
 - Pandas
 - Matplotlib
