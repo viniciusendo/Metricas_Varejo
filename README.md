@@ -21,13 +21,13 @@ Foram solicitadas métricas sobre departamentos mais vendidos, média de preço 
 As premissas do negócio eram que, devido á um erro do sistema, para compras sem informação de estado deveria ser considerado o estado do MS. Além disso, o preço não poderia ser maior que o preço com frete.
 
 ## Tratamento dos dados
-Para utilizarmos as informações de maneira ideal, foi necessário fazer manipulação das bases de dados.
+Para utilizarmos as informações de maneira ideal, foi necessário fazer a manipulação das bases de dados. Destaca-se:
 - Correção de valores nulos de estado e preço, nomes de colunas e tipos de dados
 - Exclusão de valores que não atendiam à premissa do negócio
 - União das bases de vendas e clientes
 
 ## Entendimento dos dados
-Foi feita a análise univariada para observar a distribuição de frequência das variáveis categóricas e a distribuição de variáveis numéricas (mín, máx, desvio padrão).
+Foi feita a análise univariada para observar a distribuição de frequência das variáveis categóricas e a distribuição de variáveis numéricas (mín, máx, desvio padrão), afim de procurar por padrôes ou tendências relevantes para o negócio.
 
 ## Perguntas de negócio
 Para criação das métricas solicitadas, foram utilizadas técnicas de agrupamento de dados e gráficos para visualização. A partir das informações levantadas, observou-se que:
