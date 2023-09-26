@@ -31,7 +31,7 @@ Para utilizarmos as informações de maneira ideal, foi necessário fazer a mani
 
 ## Entendimento dos dados
 <p align="justify">
-Foi feita a análise univariada para observar a distribuição de frequência das variáveis categóricas e a distribuição de variáveis numéricas (mín, máx, desvio padrão), afim de procurar por padrôes ou tendências relevantes para o negócio.
+Foi feita a análise univariada para observar a distribuição de frequência das variáveis categóricas e a distribuição de variáveis numéricas (média, mínimo, máximo, desvio padrão), afim de procurar por padrôes ou tendências relevantes para o negócio.
 
 ## Perguntas de negócio
 Para criação das métricas solicitadas, foram utilizadas técnicas de agrupamento de dados e gráficos para visualização. A partir das informações levantadas, observou-se que:
